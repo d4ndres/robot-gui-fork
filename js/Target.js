@@ -63,7 +63,7 @@ define((require, exports, module) => {
   const targetCylinder = new THREE.Mesh(sphereGeo, new THREE.MeshBasicMaterial({
     transparent: true,
     opacity: 0.7,
-    color: 0xaaaaaa,
+    color: 'red',
   }))
   targetCylinder.rotation.x = Math.PI / 2
   targetCylinder.position.z += 1

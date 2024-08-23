@@ -18,11 +18,11 @@ const THREERobot = function (V_initial, limits, scene) {
   //     0x0
   // ]
   const colors = [
-    0xaaaaaa,
-    0xbbbbbb,
-    0xbcbcbc,
-    0xcbcbcb,
-    0xcccccc,
+    'blue',
+    'green',
+    'salmon',
+    'hotpink',
+    'cyan',
     0x0,
   ]
 

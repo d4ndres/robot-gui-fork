@@ -1,6 +1,9 @@
 # robot-gui
 A three.js based 3D robot interface. 
 
+# fork
+this is a fork of the original project. You have to use node 14.21.3
+
 # How To
 Download or clone. Open `index.html` or [robot.glumb.de](http://robot.glumb.de). Enjoy 🤖😀 
 
